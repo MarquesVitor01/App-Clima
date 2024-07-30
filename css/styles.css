@@ -6,7 +6,7 @@
 }
 
 body {
-  background: url(/img/banner.avif);
+  background: url("../img/banner.avif");
   display: flex;
   justify-content: center;
   align-items: center;
